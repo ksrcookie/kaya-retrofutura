@@ -1,0 +1,2 @@
+# Quick
+Yeni not.

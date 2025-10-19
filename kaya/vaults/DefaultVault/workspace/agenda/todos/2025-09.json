@@ -1,0 +1,14 @@
+{
+  "2025-09-30": [
+    {
+      "done": false,
+      "tag": "exam",
+      "text": "Kimya Sınavı"
+    },
+    {
+      "done": false,
+      "tag": "homework",
+      "text": "Ödevi yap"
+    }
+  ]
+}
